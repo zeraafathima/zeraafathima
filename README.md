@@ -2,7 +2,7 @@
 
 
 
-## 💻 Tech I Work With  
+
 
 <p align="center">
   <!-- Full Stack -->
