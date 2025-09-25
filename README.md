@@ -1,6 +1,6 @@
 # Hi 👋! My name is Fathima Dilawar and I'm a Full Stack Developer.  
 
----
+
 
 ## 💻 Tech I Work With  
 
