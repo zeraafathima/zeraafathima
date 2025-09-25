@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>  
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -41,7 +41,7 @@
   <img src="https://streak-stats.demolab.com?user=zeraafathima&theme=radical&hide_border=false" height="150" />
 </p>  
 
----
+
 
 ## 🚀 About Me  
 - 🔭 Currently working on **Full Stack Development**  
@@ -49,7 +49,6 @@
 - 🧑‍💻 Exploring **MERN, Django, Next.js & .NET**  
 - ✨ Fun fact: *Like water in any vessel, I adapt to any stack with ease — and with coffee in hand, bugs fear me more than deadlines.* ☕  
 
----
 
 ## 🌍 Connect with Me  
 
@@ -65,6 +64,6 @@
   </a>
 </p>  
 
----
+
 
 ⭐️ From [zeraafathima](https://github.com/zeraafathima)
